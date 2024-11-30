@@ -1,4 +1,4 @@
-<p align="center">
+no<p align="center">
   <a href="https://trychroma.com"><img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="Chroma logo"></a>
 </p>
 
@@ -102,5 +102,8 @@ Chroma is a rapidly developing project. We welcome PR contributors and ideas for
 We currently release new tagged versions of the `pypi` and `npm` packages on Mondays. Hotfixes go out at any time during the week.
 
 ## License
+
+
+
 
 [Apache 2.0](./LICENSE)
